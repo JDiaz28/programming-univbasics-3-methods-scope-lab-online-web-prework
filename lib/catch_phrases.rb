@@ -3,7 +3,7 @@ def mario ('Its-a me, Mario!')
   puts phrase
 end
 
-def toadstool ('Thank You Mario! But our Princess is in another Castle')
+def toadstool ('')
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
